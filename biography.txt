@@ -1,8 +1,16 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+
+
+1. Rob Bullock
+
+2. I'm interested in Data Science because I love technology and enjoy learning about how big data is used in everyday circumstances. I also enjoy solving problems and being challenged.
+
+3. I am somewhat new to Python, but have taken some training online with sites similar to Code School. In my current job I utilize SQL, HTML, CSS, and Javascript on a daily basis.
+
+4. I haven't taken a statistics course since my undergraduate degree several years ago, but have completed DS705 - Stastical Methods earlier this year, so I have had exposure to R. I currently use statistics very rarely in my current position.
+
+5.  I don't have experience with Python or R outside of the few courses that I've taken in this program.
+
+6.  I hope to get enough experience with Python in order to help me utilize it to develop Django web apps.
+
+7.  I look forward to learning more about both languages and because familiar with Github.
